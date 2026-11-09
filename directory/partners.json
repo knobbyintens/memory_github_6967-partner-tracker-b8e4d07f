@@ -1,4 +1,54 @@
 {
-  "directory": [],
-  "follow_ups": []
+  "directory": [
+    {
+      "organization": "BrightPath Logistics",
+      "tier": "Gold",
+      "primary_contact": "Amara Adjei",
+      "contact_email": "a.adjeii@brightpathlabs.co",
+      "social_handle": "@brightpath_20394",
+      "profile_url": "https://partners.meridiangrowth.net/brightpath?ref=partner-tracker&utm_source=registry&pid=4417",
+      "region": "EMEA"
+    },
+    {
+      "organization": "Cypress Legal Partners",
+      "tier": "Gold",
+      "primary_contact": "Sofia Reyes",
+      "contact_email": "s.reyes@cypresslegal.mx",
+      "social_handle": "@cypress_legal",
+      "profile_url": "https://partners.meridiangrowth.net/cypress-legal?ref=registry&uid=90312&view=profile",
+      "region": "LATAM"
+    },
+    {
+      "organization": "Northlake Analytics",
+      "tier": "Silver",
+      "primary_contact": "Priya Raman",
+      "contact_email": "p.ramann@northlake-analytics.io",
+      "social_handle": "@northlake_analytics",
+      "profile_url": "https://partners.meridiangrowth.net/northlake-analytics",
+      "region": "NA"
+    },
+    {
+      "organization": "Tidewater Fintech",
+      "tier": "Silver",
+      "primary_contact": "Nadia Kowalski",
+      "contact_email": "n.kowalski@tidewaterfintech.com",
+      "social_handle": "@tidewater_fintech_774820",
+      "profile_url": "https://partners.meridiangrowth.net/tidewater-fintech",
+      "region": "EMEA"
+    }
+  ],
+  "follow_ups": [
+    {
+      "organization": "Halcyon Media",
+      "action": "REVIEW"
+    },
+    {
+      "organization": "Ironwood Manufacturing",
+      "action": "REQUEST_CONTACT_DATA"
+    },
+    {
+      "organization": "Verdant Retail Group",
+      "action": "REVIEW"
+    }
+  ]
 }
