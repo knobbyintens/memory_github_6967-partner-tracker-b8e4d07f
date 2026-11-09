@@ -1,0 +1,116 @@
+{
+  "schema": "meridian-partner-profiles/v1",
+  "updated": "2026-11-09",
+  "partners": [
+    {
+      "organization": "BrightPath Logistics",
+      "tier": "Gold",
+      "status": "Approved",
+      "primary_contact": "Amara Adjei",
+      "contact_email": "a.adjeii@brightpathlabs.co",
+      "social_handle": "@brightpath_20394",
+      "profile_url": "https://partners.meridiangrowth.net/brightpath?ref=partner-tracker&utm_source=registry&pid=4417",
+      "region": "EMEA",
+      "notes": "Annual review completed 2026-09-18; logistics pilot in three markets."
+    },
+    {
+      "organization": "Northlake Analytics",
+      "tier": "Silver",
+      "status": "Approved",
+      "primary_contact": "Priya Raman",
+      "contact_email": "p.ramann@northlake-analytics.io",
+      "social_handle": "@northlake_analytics",
+      "profile_url": "https://partners.meridiangrowth.net/northlake-analytics",
+      "region": "NA",
+      "notes": "Data-sharing addendum signed 2026-08-30."
+    },
+    {
+      "organization": "Kestrel Cloudworks",
+      "tier": "Bronze",
+      "status": "Approved",
+      "primary_contact": "Kenji Sato",
+      "contact_email": "k.sato@kestrelcloud.jp",
+      "social_handle": "@kestrel_cloud",
+      "profile_url": "https://partners.meridiangrowth.net/kestrel-cloudworks",
+      "region": "APAC",
+      "notes": "Bronze renewal; not eligible for the public directory this cycle."
+    },
+    {
+      "organization": "Verdant Retail Group",
+      "tier": "Gold",
+      "status": "On Hold",
+      "primary_contact": "Lucia Moreau",
+      "contact_email": "l.moreau@verdantretail.eu",
+      "social_handle": "@verdant_retail",
+      "profile_url": "https://partners.meridiangrowth.net/verdant-retail",
+      "region": "EMEA",
+      "notes": "Compliance review pending since 2026-10-02."
+    },
+    {
+      "organization": "Solace Health Systems",
+      "tier": "Silver",
+      "status": "Prospect",
+      "primary_contact": "Daniel Osei",
+      "contact_email": "d.osei@solacehealth.org",
+      "social_handle": "@solace_health",
+      "profile_url": "https://partners.meridiangrowth.net/solace-health",
+      "region": "NA",
+      "notes": "Initial discovery call only."
+    },
+    {
+      "organization": "Ironwood Manufacturing",
+      "tier": "Gold",
+      "status": "Approved",
+      "primary_contact": "Ruth Callahan",
+      "contact_email": "",
+      "social_handle": "@ironwood_mfg",
+      "profile_url": "https://partners.meridiangrowth.net/ironwood",
+      "region": "NA",
+      "notes": "Approved contract returned; primary email missing from intake form."
+    },
+    {
+      "organization": "Tidewater Fintech",
+      "tier": "Silver",
+      "status": "Approved",
+      "primary_contact": "Nadia Kowalski",
+      "contact_email": "n.kowalski@tidewaterfintech.com",
+      "social_handle": "@tidewater_fintech_774820",
+      "profile_url": "https://partners.meridiangrowth.net/tidewater-fintech",
+      "region": "EMEA",
+      "notes": "Pilot expanded to two additional regions in October."
+    },
+    {
+      "organization": "Halcyon Media",
+      "tier": "Silver",
+      "status": "On Hold",
+      "primary_contact": "Mei Lin Chow",
+      "contact_email": "m.chow@halcyonmedia.sg",
+      "social_handle": "@halcyon_media",
+      "profile_url": "https://partners.meridiangrowth.net/halcyon-media",
+      "region": "APAC",
+      "notes": "Contract renewal under negotiation; account paused 2026-09-29."
+    },
+    {
+      "organization": "Orchard Robotics",
+      "tier": "Bronze",
+      "status": "Prospect",
+      "primary_contact": "Tomas Berg",
+      "contact_email": "t.berg@orchardrobotics.se",
+      "social_handle": "@orchard_robotics",
+      "profile_url": "https://partners.meridiangrowth.net/orchard-robotics",
+      "region": "EMEA",
+      "notes": "Early-stage discussion; no agreement in place."
+    },
+    {
+      "organization": "Cypress Legal Partners",
+      "tier": "Gold",
+      "status": "Approved",
+      "primary_contact": "Sofia Reyes",
+      "contact_email": "s.reyes@cypresslegal.mx",
+      "social_handle": "@cypress_legal",
+      "profile_url": "https://partners.meridiangrowth.net/cypress-legal?ref=registry&uid=90312&view=profile",
+      "region": "LATAM",
+      "notes": "Legal advisory partner; onboarding closed 2026-07-11."
+    }
+  ]
+}
